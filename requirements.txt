@@ -1,0 +1,5 @@
+# utilities
+numpy
+pandas
+scikit-learn
+dlib
